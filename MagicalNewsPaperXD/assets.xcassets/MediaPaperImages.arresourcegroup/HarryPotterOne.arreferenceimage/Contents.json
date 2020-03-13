@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "ZB-BOOK-1073_harry-potter-and-the-sorcerers-stone-book_01_1200x1600.jpg"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "width" : 5.9999999999999991,
+    "unit" : "inches"
+  }
+}

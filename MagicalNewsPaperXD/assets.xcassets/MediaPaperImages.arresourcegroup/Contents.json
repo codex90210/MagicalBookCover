@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "CrazyRichAsians.arreferenceimage"
+    },
+    {
+      "filename" : "HarryPotterFour.arreferenceimage"
+    },
+    {
+      "filename" : "HarryPotterOne.arreferenceimage"
+    },
+    {
+      "filename" : "HungerGamesThree.arreferenceimage"
+    },
+    {
+      "filename" : "Insurgent.arreferenceimage"
+    }
+  ]
+}
