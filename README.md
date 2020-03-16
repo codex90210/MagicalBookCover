@@ -1,6 +1,6 @@
 # MagicalBookCover
 <i>Watch movie trailers on book covers.</i>
-# About
+
 Magical Book Cover is an app that allows users to watch trailers about the book from book covers. The app provides a new way for customers to obtain information about a book they’re curious about via AR. (This is another app I've created with a tutorial from Udemy -- MagicalNewsPaper App)
 
 <center><b>Note -- App only works with select titles and images from the Asset Folders on file:</b></center>
